@@ -4,6 +4,3 @@
 💻 Estagiário de Data Science no SPC Brasil; <br>
 👨‍💻 Entre 2020 e 2021, desenvolvi uma iniciação científica de análise de dados de neuroimagem em Python; <br>
 💻 No momento, meus objetivos embarcam o estudo e prática de tecnologias relacionadas a Big Data, Análise e Ciência de Dados, Machine Learning e Business Intelligence, assim como o aprimoramento das técnicas relacionadas a estes processos em Python, Spark e SQL. <br>
-
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielliberato&show_icons=true&theme=midnight-purple)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielliberato&theme=midnight-purple)]
